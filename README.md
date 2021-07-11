@@ -2,6 +2,8 @@
 
 # วิธีลงเเละวิธีติดตั้ง
 
+# apt install git -y
+
 # git clone https://github.com/Pound123/Pmap
 
 # cd Pmap
