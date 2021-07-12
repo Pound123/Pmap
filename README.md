@@ -10,7 +10,7 @@
 
 # sh setup.sh
 
-# python Pmap.py
+# python2 Pmap.py
 
 # เสร็จ
 
